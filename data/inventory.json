@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROD-001",
+    "nombre": "Laptop ASUS Vivobook 15",
+    "categoria": "Equipos",
+    "stock": 8,
+    "precio": 650.00
+  },
+  {
+    "id": "PROD-002",
+    "nombre": "Disco Solido SSD Crucial MX500 1TB",
+    "categoria": "Almacenamiento",
+    "stock": 15,
+    "precio": 85.00
+  },
+  {
+    "id": "PROD-003",
+    "nombre": "Mini PC Beelink SER5",
+    "categoria": "Equipos",
+    "stock": 4,
+    "precio": 380.00
+  }
+]
